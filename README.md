@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-My name is **John Moore**. I am a 5 year (4 years 9 months) Army vet with a Mechanical Engineering degree. I learned that I loved programming in college and continued in my free time throughout the Army while I managed maintenance, logistics, and people during the work day. I loved serving my country and enjoyed the opputunities the Army provided me but I was ready for a new challenge. I am programming full time now!
+My name is **John Moore**. I am a 5 year (4 years 9 months) Army Veteran with a Mechanical Engineering degree. I learned that I loved programming in college and continued in my free time throughout the Army while I managed maintenance, logistics, and people during the work day. I loved serving my country and enjoyed the opputunities the Army provided me but I was ready for a new challenge. I am programming full time now!
 
 ### [Ive been working on my big projects on GitLab so check that out too](https://gitlab.com/JMoooore)
 
