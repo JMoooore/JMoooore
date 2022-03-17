@@ -7,7 +7,6 @@ My name is **John Moore**. I am a 5 year (4 years 9 months) Army vet with a Mech
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JMoooore&show_icons=true&locale=en&layout=compact" alt="JMoooore" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JMoooore&show_icons=true&locale=en" alt="JMoooore" /></p>
 
 <!--
