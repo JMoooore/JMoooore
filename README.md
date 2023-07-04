@@ -9,7 +9,7 @@ My name is **John Moore**. I am a 5 year (4 years 9 months) Army Veteran with a 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JMoooore&show_icons=true&locale=en&layout=compact" alt="JMoooore" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JMoooore&show_icons=true&locale=en" alt="JMoooore" /></p>
-
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64a3bb60d99c9d6731adc6e1?variant=dark" alt="roadmap.sh"/></a>
 <!--
 **JMoooore/JMoooore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
