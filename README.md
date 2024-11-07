@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-My name is **John Moore**. I am a Fullstack Software Engineer with about 2 years of experience currently working my way through a Computer Science Master's Degree. I started my career with 5 years (4 years 9 months) in the Army and a Mechanical Engineering Bachelor's Degree. I learned that I loved programming in college and continued in my free time throughout the Army while I managed maintenance, logistics, and people during the work day. I loved serving my country but I was ready for a new challenge so I transitioned to be a Software Engineer Fulltime. I'm working in the defense industry currently but I'm always open to new opputunities!
+My name is **John Moore**. I am a Fullstack Software Engineer with about 3 years of experience currently working my way through a Computer Science Master's Degree. I started my career with 5 years (4 years 9 months) in the Army and a Mechanical Engineering Bachelor's Degree. I learned that I loved programming in college and continued in my free time throughout the Army while I managed maintenance, logistics, and people during the work day. I loved serving my country but I was ready for a new challenge so I transitioned to be a Software Engineer Fulltime. I'm working in the defense industry currently but I'm always open to new opputunities!
 
 ### [Ive been working on some big projects on GitLab so check that out too](https://gitlab.com/JMoooore)
 
