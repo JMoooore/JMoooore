@@ -13,7 +13,7 @@ A lot of my recent work has been for school and the repos have to remain private
 - Distributed File System (C++)
 - Proxy and Cache using Libcurl and a variety of IPC (C)
 - Variety of Finance focussed ML Projects (Python)
-- Cyber Security focussed work
+- Cyber Security focused work
   - Binary Exploitation
   - Web Security
   - SQLi
